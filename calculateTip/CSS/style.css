@@ -1,0 +1,10 @@
+#showcase {
+  position: relative;
+  background: url("../img/mountains.jpg");
+  min-height: 768px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
